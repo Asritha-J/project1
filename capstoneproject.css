@@ -1,0 +1,205 @@
+.div{
+	height: 350px;
+	width: 900px;
+	background-color: yellow;
+	
+}
+.b{
+	height: 350px;
+	width: 900px;
+	background-image: url('travel.jpg');
+	background-color: lightblue;
+	font-style: italic;
+	padding-top: 10px;
+
+}
+.c{
+	background-image: url('flowers.jpg');
+	height: 350px;
+	width: 900px;
+	background-color: green;
+	text-align: left;
+	padding-top: 60px;
+}
+.d{
+	height: 500px;
+	width: 900px;
+	background-color: blue;
+	background-image: url('mounteverst.jpg');
+}
+img{
+     height: 400px;
+     width: 900px;
+}
+.s1{
+	background-color: red;
+			width: 210px;
+			height: 250px;
+			float: left;
+			border: 1px solid black;
+			margin: 10px; 
+			margin-top: 90px;
+			margin-left: 80px;
+
+}
+.s2{
+	background-color: pink;
+			width: 210px;
+			height: 250px;
+			float: left;
+			border: 1px solid black;
+			margin: 10px; 
+			margin-top: 90px;
+
+}
+.s3{
+	background-color: green;
+			width: 210px;
+			height: 250px;
+			float: left;
+			border: 1px solid black;
+			margin: 10px; 
+			margin-top: 90px;
+}
+.a1{
+	height: 250px;
+     width: 210px;
+}
+.a2{
+	height: 250px;
+     width: 210px;
+}
+.a3{
+	height: 250px;
+     width: 210px;
+}
+.e{
+	height: 200px;
+	width: 900px;
+	background-color: #FFEECC;
+	padding-top: 25px;
+}
+.f{
+	height: 500px;
+	width: 900px;
+	background-image: url('grayscale.jpg');
+}
+.j1{
+	background-color: red;
+	height: 300px;
+	width: 300px;
+	padding-top: 25px;
+	float: left;
+	border: 1px solid black;
+	margin-left: 100px;
+	margin-top: 80px;
+	background-image: url('greenary.jpg');
+	
+}
+.e{
+	text-align: left;
+}
+.h1{
+	text-align: right;
+	text-transform: justify;
+	padding-bottom: 200px;
+}
+.r1{
+	text-align: right;
+	float: right;
+	margin-left: 200px;
+	margin-bottom: 100px;
+	text-transform: lowercase;
+	padding-right: 10px;
+}
+.r2{
+	text-transform: left;
+	margin-left: 20px;
+}
+.r3{
+	text-align: right;
+
+}
+.f{
+	text-align: right;
+	padding:0px;
+}
+.j1{
+	text-align: right;
+}
+.z{
+	text-align: right;
+
+	
+}
+.g{
+	height: 350px;
+	width: 900px;
+	background-color: white;
+	padding: 0px;
+
+}
+.h{
+	background-image: url('darkmountains.jpg');
+	height: 400px;
+	width: 900px;
+	background-color: white;
+	padding: 0px;
+
+
+}
+.v1{
+	height: 350px;
+     width: 900px;
+
+
+
+}
+.d{
+	text-align: right;
+	padding-top: 10px;
+
+}
+.d1{
+	text-align: left;
+	text-transform: justify;
+	float: left;
+	margin-right: 150px;
+	margin-bottom: 100px;
+	padding-left: 10px;
+
+
+}
+.d2{
+	text-align: right;
+	margin-right: 600px;
+	margin-bottom: 50px;
+}
+.t1{
+	text-align: left;
+	float: left;
+	margin-top: 100px;
+	color: white;
+}
+.k{
+	background-color: white;
+	border: 1px solid black;
+}
+.t2{
+	background-image: url('greenmountains.jpg');
+	background-color: green;
+			width: 210px;
+			height: 250px;
+			float: right;
+			border: 1px solid black;
+			margin: 10px; 
+			margin-top: 90px;
+}
+.i{
+	height: 50px;
+	width: 900px;
+	background-color: black;
+	color: white;
+	margin-bottom: 20px;
+	padding-top: 10px;
+}
